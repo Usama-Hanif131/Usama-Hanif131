@@ -6,7 +6,7 @@ SOC Analyst focused on real-time threat detection, alert triage, and incident re
 🔭 Currently monitoring and investigating incidents using Microsoft Sentinel, CrowdStrike Falcon, Splunk, and SolarWinds SEM
 🌱 Deepening detection engineering, threat hunting methodology, and cloud security monitoring (Azure/AWS)
 🔎 Also engaged in independent security research — reported 2 verified vulnerabilities in enterprise applications through responsible disclosure
-💼 Portfolio: [your-portfolio-link-here]
+💼 Portfolio: [[your-portfolio-link-here](https://portfolio-usama-phi.vercel.app/)]
 📫 muhammadosama0121@gmail.com · LinkedIn
 🧰 Tools & Technologies
 <div align="center"> <img src="https://skillicons.dev/icons?i=azure,aws,linux,py,bash,git&theme=dark" /> </div> <div align="center">
@@ -16,7 +16,7 @@ Microsoft Sentinel CrowdStrike Falcon Splunk SolarWinds SEM Defender XDR Varonis
 </div>
 📜 Certifications
 
-SC-200 — Microsoft Security Operations Analyst · ISO/IEC 27001 Information Security Associate · INE Certified Cloud Associate
+SC-200 — Microsoft Security Operations Analyst · ISO/IEC 27001 Information Security Associate · CRTA · eJPTv2 · INE Certified Cloud Associate
 
 <div align="center">
 
